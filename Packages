@@ -1,0 +1,14 @@
+Package: com.zini.jb
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: ZiniTevi <zinitevi@app.com>
+Depends: com.zini.jb
+Filename: /Payload.deb
+Size: 9829948
+MD5sum: 24fe2de3fa04e8be8bfab7050221ec39
+SHA1: 0160ba67156a479cd0e65a3f0c811803d54d3a50
+SHA256: b7a44947845f594d1516c85f519ddd5efd69553d122ef439dff1c9cd331849b5
+Section: Tweaks
+Description: ZiniTevi is a free movie app. It is better and so hot now.
+Author: ZiniTevi <zinitevi@app.com>
+Name: ZiniTevi

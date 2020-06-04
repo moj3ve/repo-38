@@ -1,0 +1,11 @@
+Website: https://zinitevi.github.io/movieapps/
+Package: com.zini.jb
+Depends: 
+Name: ZiniTevi
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: ZiniTevi is a free movie app. It is better and so hot now.
+Maintainer: https://zinitevi.github.io/movieapps/
+Author: ZiniTevi
+Section: Movie Apps
+dev: ZiniTevi
