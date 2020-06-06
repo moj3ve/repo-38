@@ -1,5 +1,10 @@
+Origin: 
+Label: 
 Suite: stable
 Version: 1.2.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
+Description: 
+ - App for Streaming Movies, Series on iPhoneOS / iPadOS / Android Phone / Android Box devices. 
+ - It will be more wonderful when you want to watch on tv with your family as Apple TV, Smart TV, FireStick, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...
