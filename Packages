@@ -1,4 +1,4 @@
-Package: com.zinitevi.jailbreak
+Package: com.zini.jb
 Version: 1.2.0
 Architecture: iphoneos-arm
 Maintainer: ZiniTevi <https://twitter.com/ZiniTevi>
@@ -6,10 +6,10 @@ Filename: /Payload.deb
 Section: Tweaks
 Author: ZiniTevi <https://twitter.com/ZiniTevi>
 Name: ZiniTevi - Stream Movies & TV Shows
-Size: 10009536
-MD5sum: a23b231c89ad146a6455839039f447a0
-SHA1: 9bf10696793cae82436425dddf63eb0bd538836b
-SHA256: 0992f988ed75974dbf3700d48bbc48bb4e7965401f1363b8e152994168166f3e
+Size: 10010536
+MD5sum: daa7462707e4c2fb9d640702df49ec0f
+SHA1: b90e782569a1a8966be08654850b641d245de2c3
+SHA256: 953e7ef9690e309bde7ff9bf88aed82fef549b40d4b17d3ce4c3f655cbd22443
 Description: 
  - App for Streaming Movies, Series on iPhoneOS / iPadOS / Android Phone / Android Box devices. 
  - It will be more wonderful when you want to watch on tv with your family as Apple TV, Smart TV, FireStick, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...

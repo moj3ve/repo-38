@@ -3,11 +3,10 @@ Section: Movie Apps
 Maintainer: ZiniTevi <https://twitter.com/ZiniTevi>
 Version: 1.2.0
 Homepage: https://zinitevi.github.io/movieapps/
-Package: com.zinitevi.jailbreak
+Package: com.zini.jb
 Name: ZiniTevi - Stream Movies & TV Shows
 Architecture: iphoneos-arm
 Author: ZiniTevi <https://twitter.com/ZiniTevi>
 Description: 
  - App for Streaming Movies, Series on iPhoneOS / iPadOS / Android Phone / Android Box devices. 
  - It will be more wonderful when you want to watch on tv with your family as Apple TV, Smart TV, FireStick, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...
-
