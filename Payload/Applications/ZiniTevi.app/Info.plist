@@ -71,16 +71,14 @@
     <key>UIBackgroundModes</key>
     <array>
       <string>fetch</string>
-      <string>location</string>
       <string>remote-notification</string>
-      <string>voip</string>
     </array>
     <key>DTSDKBuild</key>
     <string>17F65</string>
     <key>NSCameraUsageDescription</key>
     <string>Some ad content may access camera to take picture.</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.2.6</string>
+    <string>1.2.7</string>
     <key>CFBundleSupportedPlatforms</key>
     <array>
       <string>iPhoneOS</string>
@@ -102,7 +100,7 @@
     <key>MinimumOSVersion</key>
     <string>9.0</string>
     <key>CFBundleVersion</key>
-    <string>45</string>
+    <string>46</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>ZiniTevi Photo Library Additions Usage</string>
     <key>AppLovinSdkKey</key>
