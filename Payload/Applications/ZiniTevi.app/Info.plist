@@ -78,7 +78,7 @@
     <key>NSCameraUsageDescription</key>
     <string>Some ad content may access camera to take picture.</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.2.7</string>
+    <string>1.2.8</string>
     <key>CFBundleSupportedPlatforms</key>
     <array>
       <string>iPhoneOS</string>
@@ -88,7 +88,7 @@
       <string>UIInterfaceOrientationPortrait</string>
     </array>
     <key>BuildMachineOSBuild</key>
-    <string>19E287</string>
+    <string>19G73</string>
     <key>DTPlatformBuild</key>
     <string>17F65</string>
     <key>CFBundlePackageType</key>
@@ -100,7 +100,7 @@
     <key>MinimumOSVersion</key>
     <string>9.0</string>
     <key>CFBundleVersion</key>
-    <string>46</string>
+    <string>47</string>
     <key>NSPhotoLibraryAddUsageDescription</key>
     <string>ZiniTevi Photo Library Additions Usage</string>
     <key>AppLovinSdkKey</key>
