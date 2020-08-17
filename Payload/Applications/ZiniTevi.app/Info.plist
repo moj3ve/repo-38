@@ -88,7 +88,7 @@
       <string>UIInterfaceOrientationPortrait</string>
     </array>
     <key>BuildMachineOSBuild</key>
-    <string>19G73</string>
+    <string>19G2021</string>
     <key>DTPlatformBuild</key>
     <string>17G64</string>
     <key>CFBundlePackageType</key>
@@ -163,25 +163,19 @@
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLSchemes</key>
-        <array>
-          <string>zinitevi</string>
-        </array>
+        <array/>
       </dict>
       <dict>
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLSchemes</key>
-        <array>
-          <string>prefs</string>
-        </array>
+        <array/>
       </dict>
       <dict>
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLSchemes</key>
-        <array>
-          <string>com.zini.jb</string>
-        </array>
+        <array/>
       </dict>
     </array>
     <key>DTAppStoreToolsBuild</key>

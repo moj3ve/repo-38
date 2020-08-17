@@ -6,10 +6,10 @@ Filename: /Payload.deb
 Section: Tweaks
 Author: ZiniTevi <https://twitter.com/ZiniTevi>
 Name: ZiniTevi - Stream Movies & TV Shows
-Size: 10291200
-MD5sum: ac3a64dc516321d82791063066942cd0
-SHA1: c88d8336eb4207f939da80e4cbbb2c2c0cc7504f
-SHA256: dcb1281a1c8c1030f571be511705d6de4ca3445a56bd18a75bbe969bb31c0916
+Size: 10290932
+MD5sum: cab0cdd8b217a54b64db2db07a473625
+SHA1: 1f15af632fcfd392336967940846536b3ddd5b40
+SHA256: bc00456a1c1d0af269d563a2235542075bb66f60446875ec82832d9ee1ae55c0
 Description: FREE Stream movies & series for Jailbreak
  - App for Streaming Movies, Series on iPhoneOS / iPadOS / Android Phone / Android Box devices. 
  - It will be more wonderful when you want to watch on tv with your family as Apple TV, Smart TV, FireStick, Chromecast, Roku, MiBox, PlayStation, Xbox, PC, Laptop, etc ...
